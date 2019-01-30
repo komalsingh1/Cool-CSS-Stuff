@@ -8,9 +8,7 @@ button {
 }
 
 
-/* =====================
-   FACEBOOK STYLE BUTTON
-   ===================== */
+/* FACEBOOK STYLE BUTTON */
 
 .final__facebook-style-btn {
   border-radius: 2px;
@@ -20,9 +18,9 @@ button {
 }
 
 .final__facebook-style-dark {
-  -moz-box-shadow:    inset 0px 1px 0px 0px #4d73bf;
-  -webkit-box-shadow: inset 0px 1px 0px 0px #4d73bf;
-  box-shadow:         inset 0px 1px 0px 0px #4d73bf;
+  -moz-box-shadow:    inset 0px 1px 0px 0px #4d73bf;/* For Mozila Browser*/
+  -webkit-box-shadow: inset 0px 1px 0px 0px #4d73bf;/* For Webkit Based Browser*/
+  box-shadow:         inset 0px 1px 0px 0px #4d73bf;/* For Modern Browser*/
   background: #4267b2;
   border: 1px solid #4267b2;
   color: #fff;
@@ -59,9 +57,7 @@ button {
   }
 
 
-/* =====================
-   3D BUTTON 1
-   ===================== */
+/*3D Buttons! */
 
 .final__btn-3d-1 {
   position: relative;
@@ -136,9 +132,7 @@ button {
     }
 
 
-/* =====================
-   3D BUTTON 2
-   ===================== */
+/* 3D BUTTON 2*/
 
 .final__btn-3d-2 {
   position: relative;
@@ -198,9 +192,7 @@ button {
   }
 
 
-/* =========================
-   GRADIENT BORDERED BUTTONS
-   ========================= */
+/*  GRADIENT BORDERED BUTTON */
 
    .final__gradient-button-1 {
      position: relative;
@@ -252,9 +244,7 @@ button {
 
 
 
-/* =========================
-   ANIMATED BUTTONS
-   ========================= */
+/*ANIMATED BUTTONS */
 
    .final__animated-button-1 {
      position: relative;
@@ -324,9 +314,7 @@ button {
 
 
 
-/* =========================
-   TOGGLE SWITCH UI BUTTONS
-   ========================= */
+/* TOGGLE SWITCH UI Buttons */
 
    .final__toggle-1 {
      font-family: Helvetica, Arial, sans-serif;
